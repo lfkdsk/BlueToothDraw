@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/exploded-aar/BlueToothC/materiallog/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a2c5e8b96c549eaed9df6a3fd2d647ce38a5a367">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/pre-dexed/debug/classes-8f6e56ee5f58c6d7c38715c8538cca78c0f0d803.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/exploded-aar/BlueToothDraw/materiallog/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="08860f8821dcc7a6815bea4e2b97f24961813f63">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/pre-dexed/debug/classes-368352dc5e853a38a205f778da6543165803d320.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-751562cee1e8f19caadceaa5be345493e412b156.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/pre-dexed/debug/classes-cc44d7dc452627006e11ee246b91acb0cd080367.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/pre-dexed/debug/classes-1a5b9f5c4197f933caab754db25609fd5964f25e.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/pre-dexed/debug/systembartint-1.0.3-18dc69555b4afe8000679d609324cde75ae030f0.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/pre-dexed/debug/classes-f879b5ce6f046333b1f95e5ca5f823837dd4d328.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/pre-dexed/debug/classes-1709da54ca78f8b931e898a4bd15f2cde5ab04f0.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-aa1b4c5381b190cccfd47a13a628f36f49bff590.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/pre-dexed/debug/classes-d48093cb40e0dd9821e43f62e2c2efe03a0019ea.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/pre-dexed/debug/classes-01504f555464095abe7ee0efd9ba805677d9ff9e.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-d62025d105919e64bb591b410289204603475e76.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/pre-dexed/debug/classes-b91fa3c85560adbecc85c3b7e945061c108e75d7.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/pre-dexed/debug/classes-982b465d824ed437ea8eec39948c8c1249fb37d7.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothDraw/app/build/intermediates/pre-dexed/debug/classes-75629c238b2edad51fde35f10da2d210c9d83c3d.jar" />
+    </item>
+    <item
+        jar="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/liufengkai/Documents/AndroidProject/BlueToothC/app/build/intermediates/pre-dexed/debug/classes-9191223c9587b361cbf0f49c912f9b4000847200.jar" />
+    </item>
+
+</items>
