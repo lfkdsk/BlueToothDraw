@@ -126,8 +126,8 @@ public class BluetoothChat extends AppCompatActivity{
                 temp_node.TouchEvent = event;
 //                temp_node.time = System.currentTimeMillis();
                 pathNode.addNode(temp_node);
-                if(event == MotionEvent.ACTION_UP){
-                    String s = paintView.PathNodeToJsonString(pathNode,"");
+                if (event == MotionEvent.ACTION_UP) {
+                    String s = paintView.PathNodeToJsonString(pathNode, "");
                     sendMessage("lfk" + s.length());
                     try {
                         Thread.sleep(100);
@@ -136,6 +136,14 @@ public class BluetoothChat extends AppCompatActivity{
                     }
                     sendMessage(s);
                 }
+            }
+        });
+
+        findViewById(R.id.clear).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                paintView.clean();
+                paintView.clearReUnList();
             }
         });
     }
@@ -325,7 +333,7 @@ public class BluetoothChat extends AppCompatActivity{
                     Log.e("mathinput" + MathInputSize, "input" + InputSize);
                     if(MathInputSize == InputSize) {
                         paintView.ContentToPathNodeToHandle(message);
-                        snackMake(toolbar, readMessage);
+//                        snackMake(toolbar, readMessage);
                         MathInputSize = 0;
                         InputSize = 0;
                         message = "";
@@ -368,6 +376,7 @@ public class BluetoothChat extends AppCompatActivity{
                 } else {
                     // User did not enable Bluetooth or an error occurred
                     Log.d(TAG, "BT not enabled");
+
                     Toast.makeText(this, R.string.bt_not_enabled_leaving, Toast.LENGTH_SHORT).show();
                     finish();
                 }

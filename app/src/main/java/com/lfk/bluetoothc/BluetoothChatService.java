@@ -26,6 +26,8 @@ import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
 
+import com.lfk.bluetoothc.PaintView.PaintView;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -464,6 +466,7 @@ public class BluetoothChatService {
                 } catch (IOException e) {
                     Log.e(TAG, "disconnected", e);
                     connectionLost();
+                    PaintView.IsEditting = false;
                     // Start the service over to restart listening mode
                     BluetoothChatService.this.start();
                     break;

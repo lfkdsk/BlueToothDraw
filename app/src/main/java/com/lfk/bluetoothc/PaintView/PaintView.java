@@ -86,7 +86,7 @@ public class PaintView extends View {
 	private boolean IsShowing = false;
 	private boolean IsFirstOpen = true;
 	private boolean AddPicTure = false;
-	private boolean IsEditting = false;
+	public static boolean IsEditting = false;
     private long Touch_Down_Time;
     private long Touch_Up_Time;
     private OnPathListener listener;
